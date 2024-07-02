@@ -13,4 +13,7 @@ Using Nivolumab (anti-PD1) and Ipilimumab (anti-CTLA4), we pharmacologically mod
 
 # Files:
 Table with the samples; Table with metabolites determination; NMR spectra
+The data is available on: https://dx.doi.org/10.21228/M8253C
+Metabolomics workbench
+
 
